@@ -1,0 +1,38 @@
+.member-section {
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .member-title {
+    font-size: 2rem;
+    margin-bottom: 40px;
+  }
+  
+  .member-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .member-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .member-photo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
+  
+  .member-name {
+    font-weight: 500;
+    font-size: 1rem;
+  }
+  
