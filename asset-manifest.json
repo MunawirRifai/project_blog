@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6feba108.css",
-    "main.js": "/static/js/main.40925bb9.js",
-    "static/media/logo.png": "/static/media/logo.c2fda1ad662fa4e15fce.png",
-    "static/media/tower.jpeg": "/static/media/tower.cf2d6754b9d7e0a9dd09.jpeg",
-    "static/media/download.jpeg": "/static/media/download.06cbb918f916d4fc6dd4.jpeg",
-    "static/media/penelitianjpeg.jpeg": "/static/media/penelitianjpeg.383d0504273acf134ded.jpeg",
-    "index.html": "/index.html",
-    "main.6feba108.css.map": "/static/css/main.6feba108.css.map",
-    "main.40925bb9.js.map": "/static/js/main.40925bb9.js.map"
+    "main.css": "/project_blog/static/css/main.6feba108.css",
+    "main.js": "/project_blog/static/js/main.6c0b9145.js",
+    "static/media/logo.png": "/project_blog/static/media/logo.c2fda1ad662fa4e15fce.png",
+    "static/media/tower.jpeg": "/project_blog/static/media/tower.cf2d6754b9d7e0a9dd09.jpeg",
+    "static/media/download.jpeg": "/project_blog/static/media/download.06cbb918f916d4fc6dd4.jpeg",
+    "static/media/penelitianjpeg.jpeg": "/project_blog/static/media/penelitianjpeg.383d0504273acf134ded.jpeg",
+    "index.html": "/project_blog/index.html",
+    "main.6feba108.css.map": "/project_blog/static/css/main.6feba108.css.map",
+    "main.6c0b9145.js.map": "/project_blog/static/js/main.6c0b9145.js.map"
   },
   "entrypoints": [
     "static/css/main.6feba108.css",
-    "static/js/main.40925bb9.js"
+    "static/js/main.6c0b9145.js"
   ]
 }
